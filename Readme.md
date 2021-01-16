@@ -1,8 +1,8 @@
 # Module 5: Hosting Services On-Premises and in Azure
 
-# Lesson 2: Hosting Services in Web Apps Feature of Azure App Service
+# Lesson 4: Implementing Serverless Services
 
-### Demonstration: Hosting ASP.NET Core Web APIs in Web Apps
+### Demonstration: HTTP-triggered Azure Function
 
 - Abrimos el portal de azure
 - Creamos un nuevo Function App 
